@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -4.2576,
+    "lat": 55.8652
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 11.27,
+    "feels_like": 10.62,
+    "temp_min": 10.37,
+    "temp_max": 12.24,
+    "pressure": 1011,
+    "humidity": 83,
+    "sea_level": 1011,
+    "grnd_level": 1000
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 2.57,
+    "deg": 240
+  },
+  "clouds": {
+    "all": 81
+  },
+  "dt": 1791715231,
+  "sys": {
+    "type": 2,
+    "id": 2017088,
+    "country": "GB",
+    "sunrise": 1791700758,
+    "sunset": 1791739680
+  },
+  "timezone": 3600,
+  "id": 2648579,
+  "name": "Glasgow",
+  "cod": 200
+}
