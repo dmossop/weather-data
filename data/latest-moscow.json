@@ -5,42 +5,39 @@
   },
   "weather": [
     {
-      "id": 500,
-      "main": "Rain",
-      "description": "light rain",
-      "icon": "10d"
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 10.37,
-    "feels_like": 9.24,
-    "temp_min": 9.24,
-    "temp_max": 10.37,
-    "pressure": 1022,
-    "humidity": 68,
-    "sea_level": 1022,
+    "temp": 9.8,
+    "feels_like": 9.08,
+    "temp_min": 8.24,
+    "temp_max": 9.81,
+    "pressure": 1021,
+    "humidity": 73,
+    "sea_level": 1021,
     "grnd_level": 1002
   },
-  "visibility": 7689,
+  "visibility": 10000,
   "wind": {
-    "speed": 1.91,
-    "deg": 357,
-    "gust": 4.62
-  },
-  "rain": {
-    "1h": 0.13
+    "speed": 1.86,
+    "deg": 307,
+    "gust": 4.9
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1791969728,
+  "dt": 1792054916,
   "sys": {
     "type": 2,
     "id": 2095214,
     "country": "RU",
-    "sunrise": 1791950248,
-    "sunset": 1791988405
+    "sunrise": 1792036770,
+    "sunset": 1792074655
   },
   "timezone": 10800,
   "id": 524901,
