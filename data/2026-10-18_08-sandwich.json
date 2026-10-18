@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 1.3378,
+    "lat": 51.2722
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 11.64,
+    "feels_like": 10.84,
+    "temp_min": 11.64,
+    "temp_max": 11.74,
+    "pressure": 1029,
+    "humidity": 76,
+    "sea_level": 1029,
+    "grnd_level": 1025
+  },
+  "visibility": 6803,
+  "wind": {
+    "speed": 5.23,
+    "deg": 27,
+    "gust": 9.53
+  },
+  "clouds": {
+    "all": 83
+  },
+  "dt": 1792313091,
+  "sys": {
+    "type": 2,
+    "id": 2072746,
+    "country": "GB",
+    "sunrise": 1792304567,
+    "sunset": 1792342593
+  },
+  "timezone": 3600,
+  "id": 2638542,
+  "name": "Sandwich",
+  "cod": 200
+}
