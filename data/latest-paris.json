@@ -5,42 +5,38 @@
   },
   "weather": [
     {
-      "id": 501,
-      "main": "Rain",
-      "description": "moderate rain",
-      "icon": "10d"
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 12.52,
-    "feels_like": 12.02,
-    "temp_min": 11.88,
-    "temp_max": 12.88,
-    "pressure": 998,
-    "humidity": 84,
-    "sea_level": 998,
-    "grnd_level": 989
+    "temp": 9.45,
+    "feels_like": 6.85,
+    "temp_min": 8.92,
+    "temp_max": 11.38,
+    "pressure": 1018,
+    "humidity": 90,
+    "sea_level": 1018,
+    "grnd_level": 1010
   },
   "visibility": 10000,
   "wind": {
-    "speed": 11.32,
-    "deg": 210,
-    "gust": 17.49
-  },
-  "rain": {
-    "1h": 0.15
+    "speed": 5.14,
+    "deg": 240
   },
   "clouds": {
-    "all": 100
+    "all": 75
   },
-  "dt": 1792746730,
+  "dt": 1792831176,
   "sys": {
     "type": 2,
     "id": 2012208,
     "country": "FR",
-    "sunrise": 1792736565,
-    "sunset": 1792774012
+    "sunrise": 1792823059,
+    "sunset": 1792860302
   },
   "timezone": 7200,
   "id": 2988507,
