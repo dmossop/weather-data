@@ -5,40 +5,40 @@
   },
   "weather": [
     {
-      "id": 801,
+      "id": 802,
       "main": "Clouds",
-      "description": "few clouds",
-      "icon": "02d"
+      "description": "scattered clouds",
+      "icon": "03d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 8.02,
-    "feels_like": 4.49,
-    "temp_min": 7.14,
-    "temp_max": 8.41,
-    "pressure": 1008,
-    "humidity": 83,
-    "sea_level": 1008,
-    "grnd_level": 1000
+    "temp": 10.81,
+    "feels_like": 9.64,
+    "temp_min": 10.41,
+    "temp_max": 11.06,
+    "pressure": 992,
+    "humidity": 65,
+    "sea_level": 992,
+    "grnd_level": 985
   },
   "visibility": 10000,
   "wind": {
-    "speed": 6.69,
-    "deg": 220
+    "speed": 13.89,
+    "deg": 240
   },
   "clouds": {
-    "all": 20
+    "all": 40
   },
-  "dt": 1792831607,
+  "dt": 1792918958,
   "sys": {
     "type": 1,
     "id": 1511,
     "country": "GB",
-    "sunrise": 1792824191,
-    "sunset": 1792860482
+    "sunrise": 1792910701,
+    "sunset": 1792946758
   },
-  "timezone": 3600,
+  "timezone": 0,
   "id": 2655099,
   "name": "Bourne",
   "cod": 200

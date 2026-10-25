@@ -5,40 +5,41 @@
   },
   "weather": [
     {
-      "id": 804,
+      "id": 803,
       "main": "Clouds",
-      "description": "overcast clouds",
+      "description": "broken clouds",
       "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 5.47,
-    "feels_like": 3.4,
-    "temp_min": 4.79,
-    "temp_max": 7.06,
-    "pressure": 997,
-    "humidity": 94,
-    "sea_level": 997,
-    "grnd_level": 986
+    "temp": 9.67,
+    "feels_like": 4.74,
+    "temp_min": 8.23,
+    "temp_max": 9.84,
+    "pressure": 980,
+    "humidity": 74,
+    "sea_level": 980,
+    "grnd_level": 970
   },
-  "visibility": 10000,
+  "visibility": 9000,
   "wind": {
-    "speed": 2.57,
-    "deg": 80
+    "speed": 15.95,
+    "deg": 280,
+    "gust": 22.12
   },
   "clouds": {
-    "all": 100
+    "all": 75
   },
-  "dt": 1792831483,
+  "dt": 1792918873,
   "sys": {
     "type": 2,
     "id": 2017088,
     "country": "GB",
-    "sunrise": 1792825565,
-    "sunset": 1792860967
+    "sunrise": 1792912092,
+    "sunset": 1792947227
   },
-  "timezone": 3600,
+  "timezone": 0,
   "id": 2648579,
   "name": "Glasgow",
   "cod": 200

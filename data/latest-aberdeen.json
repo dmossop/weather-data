@@ -5,40 +5,41 @@
   },
   "weather": [
     {
-      "id": 800,
-      "main": "Clear",
-      "description": "clear sky",
-      "icon": "01d"
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 4.27,
-    "feels_like": 4.27,
-    "temp_min": 2.52,
-    "temp_max": 4.27,
-    "pressure": 998,
-    "humidity": 75,
-    "sea_level": 998,
-    "grnd_level": 989
+    "temp": 9.38,
+    "feels_like": 5.44,
+    "temp_min": 9.19,
+    "temp_max": 9.55,
+    "pressure": 966,
+    "humidity": 77,
+    "sea_level": 966,
+    "grnd_level": 958
   },
   "visibility": 10000,
   "wind": {
-    "speed": 1.03,
-    "deg": 0
+    "speed": 9.77,
+    "deg": 270,
+    "gust": 18.52
   },
   "clouds": {
-    "all": 0
+    "all": 75
   },
-  "dt": 1792831577,
+  "dt": 1792918911,
   "sys": {
     "type": 1,
     "id": 1440,
     "country": "GB",
-    "sunrise": 1792825252,
-    "sunset": 1792860244
+    "sunrise": 1792911785,
+    "sunset": 1792946497
   },
-  "timezone": 3600,
+  "timezone": 0,
   "id": 2657832,
   "name": "Aberdeen",
   "cod": 200
