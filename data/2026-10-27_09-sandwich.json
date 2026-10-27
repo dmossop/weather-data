@@ -1,0 +1,49 @@
+{
+  "coord": {
+    "lon": 1.3378,
+    "lat": 51.2722
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 15.75,
+    "feels_like": 15.6,
+    "temp_min": 14.53,
+    "temp_max": 16.08,
+    "pressure": 1008,
+    "humidity": 85,
+    "sea_level": 1008,
+    "grnd_level": 1005
+  },
+  "visibility": 5697,
+  "wind": {
+    "speed": 6.21,
+    "deg": 237,
+    "gust": 11.41
+  },
+  "rain": {
+    "1h": 0.2
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1793094140,
+  "sys": {
+    "type": 2,
+    "id": 2072746,
+    "country": "GB",
+    "sunrise": 1793083099,
+    "sunset": 1793119111
+  },
+  "timezone": 0,
+  "id": 2638542,
+  "name": "Sandwich",
+  "cod": 200
+}
