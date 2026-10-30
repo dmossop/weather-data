@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -0.3833,
+    "lat": 52.7667
+  },
+  "weather": [
+    {
+      "id": 741,
+      "main": "Fog",
+      "description": "fog",
+      "icon": "50d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 10.45,
+    "feels_like": 10.16,
+    "temp_min": 10.41,
+    "temp_max": 11.6,
+    "pressure": 1031,
+    "humidity": 100,
+    "sea_level": 1031,
+    "grnd_level": 1023
+  },
+  "visibility": 100,
+  "wind": {
+    "speed": 1.54,
+    "deg": 120
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1793357197,
+  "sys": {
+    "type": 1,
+    "id": 1511,
+    "country": "GB",
+    "sunrise": 1793343259,
+    "sunset": 1793378155
+  },
+  "timezone": 0,
+  "id": 2655099,
+  "name": "Bourne",
+  "cod": 200
+}
