@@ -1,0 +1,49 @@
+{
+  "coord": {
+    "lon": 31.0292,
+    "lat": -29.8579
+  },
+  "weather": [
+    {
+      "id": 501,
+      "main": "Rain",
+      "description": "moderate rain",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 15.85,
+    "feels_like": 16.02,
+    "temp_min": 15.85,
+    "temp_max": 16.51,
+    "pressure": 1030,
+    "humidity": 97,
+    "sea_level": 1030,
+    "grnd_level": 1028
+  },
+  "visibility": 4439,
+  "wind": {
+    "speed": 6.56,
+    "deg": 185,
+    "gust": 10.4
+  },
+  "rain": {
+    "1h": 2.03
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1794136042,
+  "sys": {
+    "type": 2,
+    "id": 2104340,
+    "country": "ZA",
+    "sunrise": 1794106582,
+    "sunset": 1794154974
+  },
+  "timezone": 7200,
+  "id": 1007311,
+  "name": "Durban",
+  "cod": 200
+}
