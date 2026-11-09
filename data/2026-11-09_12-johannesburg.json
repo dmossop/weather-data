@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": 28.0436,
+    "lat": -26.2023
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 21.98,
+    "feels_like": 21.93,
+    "temp_min": 19.94,
+    "temp_max": 22.73,
+    "pressure": 1021,
+    "humidity": 65,
+    "sea_level": 1021,
+    "grnd_level": 837
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1.03,
+    "deg": 330
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1794227843,
+  "sys": {
+    "type": 2,
+    "id": 2005686,
+    "country": "ZA",
+    "sunrise": 1794194013,
+    "sunset": 1794241787
+  },
+  "timezone": 7200,
+  "id": 993800,
+  "name": "Johannesburg",
+  "cod": 200
+}
