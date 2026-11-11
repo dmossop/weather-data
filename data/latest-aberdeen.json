@@ -13,30 +13,30 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 7.27,
-    "feels_like": 7.27,
-    "temp_min": 5.11,
+    "temp": 7.07,
+    "feels_like": 3.87,
+    "temp_min": 6.41,
     "temp_max": 7.27,
-    "pressure": 1012,
-    "humidity": 70,
-    "sea_level": 1012,
-    "grnd_level": 1004
+    "pressure": 1008,
+    "humidity": 75,
+    "sea_level": 1008,
+    "grnd_level": 1000
   },
   "visibility": 10000,
   "wind": {
-    "speed": 0.51,
-    "deg": 0
+    "speed": 5.14,
+    "deg": 280
   },
   "clouds": {
-    "all": 42
+    "all": 30
   },
-  "dt": 1794313383,
+  "dt": 1794397548,
   "sys": {
     "type": 1,
     "id": 1440,
     "country": "GB",
-    "sunrise": 1794296342,
-    "sunset": 1794326739
+    "sunrise": 1794382876,
+    "sunset": 1794413019
   },
   "timezone": 0,
   "id": 2657832,
