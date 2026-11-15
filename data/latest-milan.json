@@ -13,31 +13,30 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 10.91,
-    "feels_like": 9.81,
-    "temp_min": 10.08,
-    "temp_max": 12.1,
-    "pressure": 1022,
-    "humidity": 67,
-    "sea_level": 1022,
-    "grnd_level": 1007
+    "temp": 8.77,
+    "feels_like": 8.2,
+    "temp_min": 8.32,
+    "temp_max": 9.45,
+    "pressure": 1021,
+    "humidity": 75,
+    "sea_level": 1021,
+    "grnd_level": 1005
   },
   "visibility": 10000,
   "wind": {
-    "speed": 3.13,
-    "deg": 125,
-    "gust": 4.92
+    "speed": 1.54,
+    "deg": 310
   },
   "clouds": {
     "all": 75
   },
-  "dt": 1794654990,
+  "dt": 1794743455,
   "sys": {
     "type": 2,
     "id": 2107179,
     "country": "IT",
-    "sunrise": 1794637232,
-    "sunset": 1794671697
+    "sunrise": 1794723716,
+    "sunset": 1794758034
   },
   "timezone": 3600,
   "id": 3173435,

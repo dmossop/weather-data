@@ -5,39 +5,39 @@
   },
   "weather": [
     {
-      "id": 804,
+      "id": 803,
       "main": "Clouds",
-      "description": "overcast clouds",
+      "description": "broken clouds",
       "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 26.88,
-    "feels_like": 26.01,
-    "temp_min": 26.68,
-    "temp_max": 28.5,
-    "pressure": 1012,
-    "humidity": 20,
-    "sea_level": 1012,
-    "grnd_level": 837
+    "temp": 25.5,
+    "feels_like": 25.62,
+    "temp_min": 24.68,
+    "temp_max": 26.96,
+    "pressure": 1013,
+    "humidity": 58,
+    "sea_level": 1013,
+    "grnd_level": 836
   },
   "visibility": 10000,
   "wind": {
-    "speed": 4.39,
-    "deg": 329,
-    "gust": 5.3
+    "speed": 5.23,
+    "deg": 324,
+    "gust": 6.1
   },
   "clouds": {
-    "all": 92
+    "all": 65
   },
-  "dt": 1794655120,
+  "dt": 1794743455,
   "sys": {
-    "type": 1,
-    "id": 1935,
+    "type": 2,
+    "id": 2008899,
     "country": "ZA",
-    "sunrise": 1794625946,
-    "sunset": 1794674061
+    "sunrise": 1794712321,
+    "sunset": 1794760506
   },
   "timezone": 7200,
   "id": 986822,
