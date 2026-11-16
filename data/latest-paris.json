@@ -13,30 +13,30 @@
   ],
   "base": "stations",
   "main": {
-    "temp": 12.35,
-    "feels_like": 12.04,
-    "temp_min": 11.43,
-    "temp_max": 13.38,
-    "pressure": 1004,
-    "humidity": 92,
-    "sea_level": 1004,
-    "grnd_level": 996
+    "temp": 12.19,
+    "feels_like": 11.66,
+    "temp_min": 11.32,
+    "temp_max": 12.99,
+    "pressure": 1008,
+    "humidity": 84,
+    "sea_level": 1008,
+    "grnd_level": 1000
   },
   "visibility": 10000,
   "wind": {
-    "speed": 5.66,
-    "deg": 190
+    "speed": 5.14,
+    "deg": 230
   },
   "clouds": {
     "all": 100
   },
-  "dt": 1794743455,
+  "dt": 1794831662,
   "sys": {
     "type": 2,
     "id": 2012208,
     "country": "FR",
-    "sunrise": 1794725963,
-    "sunset": 1794759071
+    "sunrise": 1794812456,
+    "sunset": 1794845399
   },
   "timezone": 3600,
   "id": 2988507,
