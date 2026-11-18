@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -2.0981,
+    "lat": 57.1437
+  },
+  "weather": [
+    {
+      "id": 802,
+      "main": "Clouds",
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 7.27,
+    "feels_like": 4.59,
+    "temp_min": 6.97,
+    "temp_max": 7.27,
+    "pressure": 986,
+    "humidity": 65,
+    "sea_level": 986,
+    "grnd_level": 979
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.12,
+    "deg": 90
+  },
+  "clouds": {
+    "all": 40
+  },
+  "dt": 1795006323,
+  "sys": {
+    "type": 1,
+    "id": 1440,
+    "country": "GB",
+    "sunrise": 1794988596,
+    "sunset": 1795017044
+  },
+  "timezone": 0,
+  "id": 2657832,
+  "name": "Aberdeen",
+  "cod": 200
+}

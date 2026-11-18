@@ -5,39 +5,39 @@
   },
   "weather": [
     {
-      "id": 803,
+      "id": 804,
       "main": "Clouds",
-      "description": "broken clouds",
+      "description": "overcast clouds",
       "icon": "04d"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 9.26,
-    "feels_like": 5.4,
-    "temp_min": 7.7,
-    "temp_max": 10.41,
-    "pressure": 977,
+    "temp": 10,
+    "feels_like": 8.38,
+    "temp_min": 9.36,
+    "temp_max": 10.5,
+    "pressure": 985,
     "humidity": 89,
-    "sea_level": 977,
-    "grnd_level": 969
+    "sea_level": 985,
+    "grnd_level": 978
   },
-  "visibility": 10000,
+  "visibility": 9211,
   "wind": {
-    "speed": 9.26,
-    "deg": 240,
-    "gust": 15.43
+    "speed": 3.24,
+    "deg": 254,
+    "gust": 6.03
   },
   "clouds": {
-    "all": 75
+    "all": 94
   },
-  "dt": 1794920315,
+  "dt": 1795006323,
   "sys": {
-    "type": 1,
-    "id": 1511,
+    "type": 2,
+    "id": 2111237,
     "country": "GB",
-    "sunrise": 1794900459,
-    "sunset": 1794931533
+    "sunrise": 1794986965,
+    "sunset": 1795017851
   },
   "timezone": 0,
   "id": 2655099,

@@ -16,28 +16,28 @@
     "temp": 13.24,
     "feels_like": 12.53,
     "temp_min": 12.75,
-    "temp_max": 14.81,
-    "pressure": 981,
+    "temp_max": 14.53,
+    "pressure": 987,
     "humidity": 73,
-    "sea_level": 981,
-    "grnd_level": 977
+    "sea_level": 987,
+    "grnd_level": 983
   },
   "visibility": 10000,
   "wind": {
-    "speed": 8.32,
-    "deg": 235,
-    "gust": 16.24
+    "speed": 5.14,
+    "deg": 254,
+    "gust": 9.93
   },
   "clouds": {
-    "all": 27
+    "all": 43
   },
-  "dt": 1794920315,
+  "dt": 1795006323,
   "sys": {
     "type": 2,
     "id": 2072746,
     "country": "GB",
-    "sunrise": 1794899700,
-    "sunset": 1794931465
+    "sunrise": 1794986201,
+    "sunset": 1795017790
   },
   "timezone": 0,
   "id": 2638542,
