@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 27.7752,
+    "lat": -26.0858
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 25.62,
+    "feels_like": 25.73,
+    "temp_min": 24.56,
+    "temp_max": 27.2,
+    "pressure": 1013,
+    "humidity": 57,
+    "sea_level": 1013,
+    "grnd_level": 836
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.7,
+    "deg": 321,
+    "gust": 6.4
+  },
+  "clouds": {
+    "all": 74
+  },
+  "dt": 1795263680,
+  "sys": {
+    "type": 2,
+    "id": 2008899,
+    "country": "ZA",
+    "sunrise": 1795230605,
+    "sunset": 1795279179
+  },
+  "timezone": 7200,
+  "id": 986822,
+  "name": "Krugersdorp",
+  "cod": 200
+}
