@@ -8,36 +8,36 @@
       "id": 803,
       "main": "Clouds",
       "description": "broken clouds",
-      "icon": "04d"
+      "icon": "04n"
     }
   ],
   "base": "stations",
   "main": {
-    "temp": 1.55,
-    "feels_like": -1.28,
-    "temp_min": 1.24,
-    "temp_max": 2.43,
-    "pressure": 1001,
-    "humidity": 56,
-    "sea_level": 1001,
-    "grnd_level": 983
+    "temp": 1.48,
+    "feels_like": -0.84,
+    "temp_min": 0.29,
+    "temp_max": 1.48,
+    "pressure": 1005,
+    "humidity": 65,
+    "sea_level": 1005,
+    "grnd_level": 987
   },
   "visibility": 10000,
   "wind": {
-    "speed": 2.6,
-    "deg": 219,
-    "gust": 5.84
+    "speed": 2.09,
+    "deg": 194,
+    "gust": 4.01
   },
   "clouds": {
-    "all": 72
+    "all": 62
   },
-  "dt": 1795349761,
+  "dt": 1795443367,
   "sys": {
     "type": 2,
     "id": 2095214,
     "country": "RU",
-    "sunrise": 1795324701,
-    "sunset": 1795353190
+    "sunrise": 1795411217,
+    "sunset": 1795439508
   },
   "timezone": 10800,
   "id": 524901,

@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 116.3972,
+    "lat": 39.9075
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 0.94,
+    "feels_like": -4.32,
+    "temp_min": 0.94,
+    "temp_max": 0.94,
+    "pressure": 1033,
+    "humidity": 20,
+    "sea_level": 1033,
+    "grnd_level": 1028
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.13,
+    "deg": 319,
+    "gust": 13.35
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1795443221,
+  "sys": {
+    "type": 1,
+    "id": 9609,
+    "country": "CN",
+    "sunrise": 1795388876,
+    "sunset": 1795424027
+  },
+  "timezone": 28800,
+  "id": 1816670,
+  "name": "Beijing",
+  "cod": 200
+}
