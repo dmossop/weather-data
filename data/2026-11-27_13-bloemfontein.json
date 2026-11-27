@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": 26.214,
+    "lat": -29.1211
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 25.71,
+    "feels_like": 25.49,
+    "temp_min": 25.71,
+    "temp_max": 25.71,
+    "pressure": 1009,
+    "humidity": 44,
+    "sea_level": 1009,
+    "grnd_level": 863
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.17,
+    "deg": 360
+  },
+  "clouds": {
+    "all": 20
+  },
+  "dt": 1795786744,
+  "sys": {
+    "type": 1,
+    "id": 1884,
+    "country": "ZA",
+    "sunrise": 1795748944,
+    "sunset": 1795798602
+  },
+  "timezone": 7200,
+  "id": 1018725,
+  "name": "Bloemfontein",
+  "cod": 200
+}
