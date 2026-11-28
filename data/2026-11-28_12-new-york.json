@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -74.006,
+    "lat": 40.7143
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 6.53,
+    "feels_like": 2.25,
+    "temp_min": 5.16,
+    "temp_max": 7.34,
+    "pressure": 1002,
+    "humidity": 74,
+    "sea_level": 1002,
+    "grnd_level": 998
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 7.72,
+    "deg": 230,
+    "gust": 12.86
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1795870065,
+  "sys": {
+    "type": 1,
+    "id": 4610,
+    "country": "US",
+    "sunrise": 1795867064,
+    "sunset": 1795901439
+  },
+  "timezone": -18000,
+  "id": 5128581,
+  "name": "New York",
+  "cod": 200
+}

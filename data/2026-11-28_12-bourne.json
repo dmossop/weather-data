@@ -1,0 +1,48 @@
+{
+  "coord": {
+    "lon": -0.3833,
+    "lat": 52.7667
+  },
+  "weather": [
+    {
+      "id": 501,
+      "main": "Rain",
+      "description": "moderate rain",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 4.53,
+    "feels_like": 0.02,
+    "temp_min": 4.38,
+    "temp_max": 4.92,
+    "pressure": 1015,
+    "humidity": 90,
+    "sea_level": 1015,
+    "grnd_level": 1008
+  },
+  "visibility": 3700,
+  "wind": {
+    "speed": 6.69,
+    "deg": 140
+  },
+  "rain": {
+    "1h": 2.05
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1795870173,
+  "sys": {
+    "type": 1,
+    "id": 1511,
+    "country": "GB",
+    "sunrise": 1795851973,
+    "sunset": 1795881183
+  },
+  "timezone": 0,
+  "id": 2655099,
+  "name": "Bourne",
+  "cod": 200
+}

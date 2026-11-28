@@ -1,0 +1,45 @@
+{
+  "coord": {
+    "lon": -2.5967,
+    "lat": 51.4552
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 12.13,
+    "feels_like": 11.91,
+    "temp_min": 11.48,
+    "temp_max": 13.06,
+    "pressure": 1011,
+    "humidity": 96,
+    "sea_level": 1011,
+    "grnd_level": 1005
+  },
+  "visibility": 7000,
+  "wind": {
+    "speed": 8.23,
+    "deg": 170
+  },
+  "clouds": {
+    "all": 100
+  },
+  "dt": 1795870106,
+  "sys": {
+    "type": 2,
+    "id": 2029649,
+    "country": "GB",
+    "sunrise": 1795852146,
+    "sunset": 1795882072
+  },
+  "timezone": 0,
+  "id": 2654675,
+  "name": "Bristol",
+  "cod": 200
+}
